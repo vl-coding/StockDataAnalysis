@@ -1,4 +1,4 @@
-## use from PersonalProjects.FinancialAnalysis.predict_stocks
+## use with virtual environment with all necessary libraries
 # from datetime import datetime
 import pandas as pd
 from readStocks import read_stock_data
